@@ -11,13 +11,13 @@ The [paper](https://www.mdpi.com/1424-8220/22/12/4481) "A Bayesian Approach to U
 This project has received funding from the European Union’s Horizon 2020 Research and Innovation programme under Grant Agreement No. 957755.
 
 ### Abstract
-
 Estimating household energy use patterns and user consumption habits is a fundamental requirement for management and control techniques of demand response programs, leading to a growing interest in non-intrusive load disaggregation methods. In this work we propose a new methodology for disaggregating the electrical load of a household from low-frequency electrical consumption measurements obtained from a smart meter and contextual environmental information. The method proposed allows, with an unsupervised and non-intrusive approach, to separate loads into two components related to environmental conditions and occupants’ habits. We use a Bayesian approach, in which disaggregation is achieved by exploiting actual electrical load information to update the a priori estimate of user consumption habits, to obtain a probabilistic forecast with hourly resolution of the two components. We obtain a remarkably good accuracy for a benchmark dataset, higher than that obtained with other unsupervised methods and comparable to the results of supervised algorithms based on deep learning. The proposed procedure is of great application interest in that, from the knowledge of the time series of electricity consumption alone, it enables the identification of households from which it is possible to extract flexibility in energy demand and to realize the prediction of the respective load components.
 
-### Keywords: energy disaggregation; non-intrusive load monitoring; NILM; Bayesian methods
+### Keywords 
+energy disaggregation; non-intrusive load monitoring; NILM; Bayesian methods
 
 
-### Reference:
+### Reference
 
 ```
 @article{massidda2022bayesian,
