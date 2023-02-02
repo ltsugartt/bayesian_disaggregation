@@ -25,6 +25,6 @@ Estimating household energy use patterns and user consumption habits is a fundam
 ```
 
 ![Load disaggregation examples for different periods in a year, with different values of the outdoor mean temperature.
-](chain2.png "Load disaggregation examples for different periods in a year, with different values of the outdoor mean temperature.
+](sensors-22-04481-g005.png "Load disaggregation examples for different periods in a year, with different values of the outdoor mean temperature.
 ").
 
