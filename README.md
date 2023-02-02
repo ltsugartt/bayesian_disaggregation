@@ -5,7 +5,7 @@ The [paper](https://www.mdpi.com/1424-8220/22/12/4481) "A Bayesian Approach to U
 ### Project
 [SENDER](https://www.sender-h2020.eu) is a project funded by the European Commission under the Horizon 2020 programme, which will develop the next generation of integrated energy service applications for demand-response management, tailored to the end-users' needs and preferences.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VnnyQ3YskU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![SENDER H2020 - Consumers at the core of the energy system](https://img.youtube.com/vi/VnnyQ3YskU0/0.jpg)](https://www.youtube.com/watch?v=VnnyQ3YskU0)
 
 ### Funding
 This project has received funding from the European Union’s Horizon 2020 Research and Innovation programme under Grant Agreement No. 957755.
